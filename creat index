@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spot Bitcoin ETF Flows Demo</title>
+</head>
+<body>
+    <h1>Spot Bitcoin ETF Flows</h1>
+    <iframe width="100%" height="420" frameborder="0" src="https://www.theblock.co/data/crypto-markets/bitcoin-etf/spot-bitcoin-etf-flows/embed" title="Spot Bitcoin ETF Flows"></iframe>
+    <p>This is a demonstration webpage to show how to embed Spot Bitcoin ETF Flows into a website using an iframe.</p>
+</body>
+</html>
